@@ -35,7 +35,7 @@
 - Opening files may take upwards of 15 seconds depending on its size and data plotted
 - Selecting multiple files may glicth sometimes
 
-- ## Libraies Used:
+## Libraies Used:
 - Tkinter
 - Pandas
 - RegEx
